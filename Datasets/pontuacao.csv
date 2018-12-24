@@ -1,0 +1,19 @@
+"abreviacao","nome","pontuacao"
+"RB","Roubada de bola",1.7
+"FC","Falta cometida",-0.5
+"GC","Gol contra",-6.0
+"CA","Cartão amarelo",-2.0
+"CV","Cartão vermelho",-5.0
+"SG","Jogo sem sofrer gol",5.0
+"DD","Defesa difícil",3.0
+"DP","Defesa de pênalti",7.0
+"GS","Gol sofrido",-2.0
+"FS","Falta sofrida",0.5
+"PE","Passe errado",-0.3
+"A","Assistência",5.0
+"FT","Finalização na trave",3.5
+"FD","Finalização defendida",1.0
+"FF","Finalização para fora",0.7
+"G","Gol",8.0
+"I","Impedimento",-0.5
+"PP","Pênalti perdido",-3.5
